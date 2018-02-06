@@ -12,7 +12,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 /**
- * Created by Administrator on 2018/2/4.
+ * Create by Administrator on 2018/2/4.
  */
 
 public class NetUtil {
