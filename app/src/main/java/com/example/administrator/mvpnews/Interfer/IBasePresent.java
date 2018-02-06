@@ -5,4 +5,7 @@ package com.example.administrator.mvpnews.Interfer;
  */
 
 public interface IBasePresent {
+    void loginToser(String name,String password);
+    void loginSucess();
+    void loginError();
 }

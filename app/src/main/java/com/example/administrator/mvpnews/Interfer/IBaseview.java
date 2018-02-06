@@ -5,4 +5,7 @@ package com.example.administrator.mvpnews.Interfer;
  */
 
 public interface IBaseview {
+    void loginPro();
+    void loginSucess();
+    void loginError();
 }
